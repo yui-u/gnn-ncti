@@ -1,0 +1,15 @@
+{
+    "dataset_normalized": true,
+    "gnn_model_type": "gatv2",
+    "gnn_hidden_size": 32,
+    "gnn_activation_fn": "relu",
+    "mlp_hidden_size": 16,
+    "mlp_activation_fn": "tanh",
+    "num_gat_heads": 2,
+    "num_message_passing": 3,
+    "ablation_pc": false,
+    "ablation_midi": false,
+    "ablation_beat": false,
+    "ablation_edge_feat": false,
+    "dropout_p": 0.25
+}

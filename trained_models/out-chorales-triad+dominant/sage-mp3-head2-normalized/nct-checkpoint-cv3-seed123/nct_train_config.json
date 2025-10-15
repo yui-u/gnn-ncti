@@ -1,0 +1,14 @@
+{
+  "dir_preprocessed_dataset": "dataset/Chorales-cvn5-halfbeat-triad+dominant-nctrth0.5",
+  "debug": false,
+  "device": "cuda:0",
+  "seed": 123,
+  "cv_set_no": 3,
+  "batch_size": 4,
+  "learning_rate": 0.001,
+  "metric": "fscore",
+  "fscore_beta": 1.0,
+  "warmup_nct": 16,
+  "gradient_clip_value": 1.0,
+  "patience": -1
+}

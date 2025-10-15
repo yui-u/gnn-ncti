@@ -1,0 +1,14 @@
+{
+  "dir_preprocessed_dataset": "dataset/WTC_I-cvn5-halfbeat-full-nctrth0.5",
+  "debug": false,
+  "device": "cuda:0",
+  "seed": 456,
+  "cv_set_no": 4,
+  "batch_size": 4,
+  "learning_rate": 0.001,
+  "metric": "fscore",
+  "fscore_beta": 1.0,
+  "warmup_nct": 16,
+  "gradient_clip_value": 1.0,
+  "patience": -1
+}
