@@ -1,7 +1,7 @@
-# Non-chord Tone Identification Using GNN for Improving Unsupervised Harmonic Analysis
+# Note-level Nonchord-tone Identification with Graph Neural Networks
 
 This repository is the implementation of 
-"Non-chord Tone Identification Using GNN for Improving Unsupervised Harmonic Analysis." (Uehara and Tojo, Accepted to APSIPA ASC 2025)
+"Note-level Nonchord-tone Identification with Graph Neural Networks." (Uehara and Tojo, APSIPA ASC 2025)
 
 ## Requirements
 - Python 3.10.12
