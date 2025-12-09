@@ -505,3 +505,6 @@ if __name__ == '__main__':
                                       default='inference',
                                       help='Output directory path')
     parser_inference_nct.set_defaults(func=run_inference_nct)
+
+    main_args = parser.parse_args()
+    main_args.func(main_args)
