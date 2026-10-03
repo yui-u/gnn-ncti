@@ -129,5 +129,5 @@ Please cite the following paper when using this code:
 ```
 Y. Uehara and S. Tojo, 
 "Note-level Nonchord-tone Identification with Graph Neural Networks", 
-2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (Accepted).
+2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC).
 ```
